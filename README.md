@@ -23,5 +23,3 @@ using **Flask** and **ngrok**.
   - Accessible via ngrok tunnel for easy web integration
 
 ---
-
-## 📂 Project Structure
