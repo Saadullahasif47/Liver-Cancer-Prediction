@@ -21,5 +21,13 @@ using **Flask** and **ngrok**.
 - **Deployment**
   - Flask-based REST API
   - Accessible via ngrok tunnel for easy web integration
+---
+
+## 👥 Collaborators  
+- **Saad Hassan Faisal**  
+  - GitHub: [github.com/SaadHassanFaisal ](https://github.com/SaadHassanFaisal )  
+  - Email: saadhassanfaisal1403@gmail.com  
+
+---
 
 ---
